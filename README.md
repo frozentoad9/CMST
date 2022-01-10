@@ -4,8 +4,9 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 This code is adapted and modified from [this](https://ruder.io/text-classification-tensorflow-estimators/) tutorial by Ruder.
 
 ## File organization
-* Preprocessing  : Contains all files used to preprocess the data (Python 3.6)
+* Preprocessing  : contains all files used to preprocess the data (Python 3.6)
 * data  : contains data required to run this code
+* Statistics  : contains all files that contains statistics of the dataset
 
 ## To run the code:
 We have only provided our best word embedding model implementation i.e. FastText.
