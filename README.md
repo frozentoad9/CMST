@@ -5,7 +5,7 @@ This code is adapted and modified from [this](https://ruder.io/text-classificati
 
 ## File organization
 * Preprocessing  : contains all files used to preprocess the data (Python 3.6)
-* data  : contains data required to run this code
+* Data  : contains data required to run this code
 * Statistics  : contains all files that contains statistics of the dataset
 
 ## To run the code:
