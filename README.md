@@ -1,7 +1,6 @@
 <!--- # Project Title --->
 # Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages
 Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://www.aclweb.org/anthology/W19-7503/) <br>
-This code is adapted and modified from [this](https://ruder.io/text-classification-tensorflow-estimators/) tutorial by Ruder.
 
 ## File organization
 * Preprocessing  : contains all files used to preprocess the data (Python 3.6)
