@@ -7,12 +7,6 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 * Data  : contains data required to run this code
 * Statistics  : contains all files that contains statistics of the dataset
 
-## To run the code:
-We have only provided our best word embedding model implementation i.e. FastText.
-Go to code/train.py file
-```
-python train.py
-```
 # Dataset
 Description of data files .
 We have used same transliteration scheme as that of [Hellwig's](https://github.com/OliverHellwig/sanskrit/blob/master/papers/2018emnlp/code/data_loader.py)
