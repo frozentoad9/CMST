@@ -45,7 +45,9 @@ file name | discription
 | Dutch\[100%\]               | 42716  | 595464  | 10.52          | 11.15           | 5.05              |
 
 
-### Code-mixing in Prabhupadavani
+### Code-mixing
+
+#### All languages in Code-mixing
 
 | Language | Total Words | Unique Words | Percentage |
 | -------- | ----------- | ------------ | ---------- |
@@ -53,6 +55,9 @@ file name | discription
 | Bengali  | 46933       | 3907         | 7.84       |
 | Sanskrit | 51246       | 7202         | 8.56       |
 | Total    | 598315      | 17421        | 100        |
+
+
+#### Types of Code-mixing
 
 |                  | English-Sanskrit | Sanskrit-English | English-Bengali | Bengali-English |
 | ---------------- | ---------------- | ---------------- | --------------- | --------------- |
