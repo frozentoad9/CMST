@@ -9,13 +9,9 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 
 # Dataset
 file name | discription
----|---
+----|----
 [train/test/dev.csv](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing)  | This is the dataset for code-mixed Speech Translation.  |
 [chopped_audios](https://drive.google.com/drive/folders/1F_TM0EwlZG36ZbbqgzWdWagxsYR70cuN?usp=sharing)  | This contains all the audios, transcription and translation.
-
-These features can be downloaded from [here](https://drive.google.com/file/d/1N-xI7UZImp_C8eSktQ94dagsUQpDZdrd/view?usp=sharing)
-
-Make sure these features are placed in path : data/fast_text_features
 
 ## Sample data
 There are four classes. They are represented by integer mapping: Avyaibhav(0), Bahuvrihi(1), Dvandva(2), Tatpurush(3)
