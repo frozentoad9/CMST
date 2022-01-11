@@ -9,11 +9,11 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 
 # Dataset
 Description of data files .
-We have used same transliteration scheme as that of [Hellwig's](https://github.com/OliverHellwig/sanskrit/blob/master/papers/2018emnlp/code/data_loader.py)
+[This]{https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing} link contains all the dataset files (train, test and dev).
 ## Corpora
 file name | discription
 ---|---
-train/test.csv  | This is the dataset for compound type classification task.
+train/test/dev.csv  | This is the dataset for code-mixed Speech Translation.
 compound_dic.pickle  | This file is dictionary mapping of compound classification dataset to get word embedding vectors.
 Fast_text_features | This folder contains fasttext embedding of classification dataset.
 
