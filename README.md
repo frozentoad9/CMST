@@ -13,23 +13,7 @@ file name | discription
 [train/test/dev.csv](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing)  | This is the dataset for code-mixed Speech Translation.  |
 [chopped_audios](https://drive.google.com/drive/folders/1F_TM0EwlZG36ZbbqgzWdWagxsYR70cuN?usp=sharing)  | This contains all the audios, transcription and translation.
 
-## Sample data
-There are four classes. They are represented by integer mapping: Avyaibhav(0), Bahuvrihi(1), Dvandva(2), Tatpurush(3)
-
-Index | Word1 | Word2 | Class
----|--- |---|---
-1 | xqDa | vikramaH | 1
-2 | prawi | icCakaH | 0
-3 | saMmAna | SuSrURA | 2
-
-### Statistics of Corpora contained in Sanskrit
-Corpus | No of Verses | No of words
----|---|---
-Vedabase|13013  | 190343
-DCS|  127376 | 3797593
-wiki|78K lines| 663521
-Total|  |4651457
-
+### Statistics of Corpora contained
 
 | Languages                   | #types | #tokens | Types per line | Tokens per line | Avg. token length |
 | --------------------------- | ------ | ------- | -------------- | --------------- | ----------------- |
@@ -59,6 +43,21 @@ Total|  |4651457
 | Croatian\[100%\]            | 73075  | 531326  | 9.58           | 9.95            | 5.28              |
 | Danish\[100%\]              | 50170  | 587253  | 10.4           | 11              | 4.98              |
 | Dutch\[100%\]               | 42716  | 595464  | 10.52          | 11.15           | 5.05              |
+
+
+### Code-mixing in Prabhupadavani
+
+| Language | Total Words | Unique Words | Percentage |
+| -------- | ----------- | ------------ | ---------- |
+| English  | 500136      | 6312         | 83.6       |
+| Bengali  | 46933       | 3907         | 7.84       |
+| Sanskrit | 51246       | 7202         | 8.56       |
+| Total    | 598315      | 17421        | 100        |
+
+|                  | English-Sanskrit | Sanskrit-English | English-Bengali | Bengali-English |
+| ---------------- | ---------------- | ---------------- | --------------- | --------------- |
+| Inter-Sentential | 2356             | 2366             | 339             | 339             |
+| Intra-Sentential | 2338             | 851              | 124             | 0               |
 
 <!---
 <img src="images/vedabaseDF.png"> 
