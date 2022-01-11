@@ -8,7 +8,7 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 * Statistics  : contains all files that contains statistics of the dataset
 
 # Dataset
-file name | discription | Link
+file name | discription
 ---|---
 [train/test/dev.csv](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing)  | This is the dataset for code-mixed Speech Translation.  |
 [chopped_audios](https://drive.google.com/drive/folders/1F_TM0EwlZG36ZbbqgzWdWagxsYR70cuN?usp=sharing)  | This contains all the audios, transcription and translation.
