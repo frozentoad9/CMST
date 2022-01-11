@@ -8,13 +8,10 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 * Statistics  : contains all files that contains statistics of the dataset
 
 # Dataset
-[This](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing) link contains all the dataset files (train, test and dev).
-## Corpora
-file name | discription
+file name | discription | Link
 ---|---
-train/test/dev.csv  | This is the dataset for code-mixed Speech Translation.
-compound_dic.pickle  | This file is dictionary mapping of compound classification dataset to get word embedding vectors.
-Fast_text_features | This folder contains fasttext embedding of classification dataset.
+[train/test/dev.csv](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing)  | This is the dataset for code-mixed Speech Translation.  |
+[chopped_audios](https://drive.google.com/drive/folders/1F_TM0EwlZG36ZbbqgzWdWagxsYR70cuN?usp=sharing)  | This contains all the audios, transcription and translation.
 
 These features can be downloaded from [here](https://drive.google.com/file/d/1N-xI7UZImp_C8eSktQ94dagsUQpDZdrd/view?usp=sharing)
 
