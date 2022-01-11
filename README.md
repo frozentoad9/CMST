@@ -8,8 +8,7 @@ Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data
 * Statistics  : contains all files that contains statistics of the dataset
 
 # Dataset
-Description of data files .
-[This]{https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing} link contains all the dataset files (train, test and dev).
+[This](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing) link contains all the dataset files (train, test and dev).
 ## Corpora
 file name | discription
 ---|---
