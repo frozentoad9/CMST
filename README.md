@@ -1,6 +1,6 @@
 <!--- # Project Title --->
 # Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages
-Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://www.aclweb.org/anthology/W19-7503/) <br>
+Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://arxiv.org/abs/2201.11391) <br>
 
 ## File organization
 * Preprocessing  : contains all files used to preprocess the data (Python 3.6)
