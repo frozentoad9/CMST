@@ -114,3 +114,5 @@ hidden_layer_sizes=(100),alpha=0.05,learning_rate='adaptive',max_iter=1000,max_n
 <img width="400" height="400" src="images/embedding.png">
 </p>
 --->
+## Lincense
+This project is licensed under the terms of the `Apache license 2.0`.
