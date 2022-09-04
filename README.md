@@ -2,8 +2,8 @@
 Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://arxiv.org/abs/2201.11391) published at [COLING22-SIGHUM workshop](https://sighum.wordpress.com/events/latech-clfl-2022/). <br>
 
 ## File organization
-* Data  : contains data required to run this code
-* Statistics  : contains all files that contains statistics of the dataset
+* Data  : contains dataset with (train/dev/test) splits
+* Statistics  : contains statistics of the dataset
 
 ## Dataset
 You can find the download link and more description about the dataset [HERE](https://github.com/frozentoad9/CMST/blob/master/Data/README.md)
