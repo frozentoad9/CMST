@@ -1,7 +1,7 @@
 <!--- # Project Title --->
 
 # Dataset
-* You can find the link to data splits released with our paper [HERE]((https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing)) Please note that this link contains only translations. The column `time_stamp` contains the name of the audio clip. Rest of the columns are dedicated to each language.  
+* You can find the link to data splits released with our paper [HERE](https://drive.google.com/drive/folders/1mnCjP4woF0CrQfhXajj90xp13TW-moR1?usp=sharing) Please note that this link contains only translations. The column `time_stamp` contains the name of the audio clip. Rest of the columns are dedicated to each language.  
 * [This link](https://drive.google.com/drive/folders/1F_TM0EwlZG36ZbbqgzWdWagxsYR70cuN?usp=sharing) contains all the audio clips, transcription and translation.
 
 ### Statistics of Corpora contained
