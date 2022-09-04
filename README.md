@@ -1,5 +1,5 @@
 # Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages
-Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://arxiv.org/abs/2201.11391) <br>
+Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://arxiv.org/abs/2201.11391) published at [COLING22-SIGHUM workshop](https://sighum.wordpress.com/events/latech-clfl-2022/). <br>
 
 ## File organization
 * Data  : contains data required to run this code
