@@ -2,7 +2,6 @@
 Code for the paper titled ["Prabhupadavani: A Code-mixed Speech Translation Data for 25 languages"](https://arxiv.org/abs/2201.11391) <br>
 
 ## File organization
-* Preprocessing  : contains all files used to preprocess the data (Python 3.6)
 * Data  : contains data required to run this code
 * Statistics  : contains all files that contains statistics of the dataset
 
