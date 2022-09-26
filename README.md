@@ -27,5 +27,8 @@ If you use our dataset, we'd appreciate if you cite our paper:
 ## Acknowledgements
 We would like to thank the [Vanipedia team](https://vanipedia.org/) of 700+ translators for establishing this multi-lingual database for us to develop. We thank the Bhaktivedanta Book Trust International for permitting us to use Prabhupadavani audio in our dataset.
 
+## Copyright
+Audio of 1080 audio clips provided by Vanipedia courtesy Bhaktivendata Book Trust International, Inc. www.Krishna.com. Used with permission.
+
 ## License
 This project is licensed under the terms of the `Apache license 2.0`.
