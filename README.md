@@ -15,11 +15,7 @@ If you use our dataset, we'd appreciate if you cite our paper:
 ```
 @inproceedings{sandhan-etal-2022-prabhupadavani,
     title = "Prabhupadavani: A Code-mixed Speech Translation Data for 25 Languages",
-    author = "Sandhan, Jivnesh  and
-      Daksh, Ayush  and
-      Paranjay, Om Adideva  and
-      Behera, Laxmidhar  and
-      Goyal, Pawan",
+    author = "Sandhan, Jivnesh  and Daksh, Ayush  and Paranjay, Om Adideva  and Behera, Laxmidhar  and Goyal, Pawan",
     booktitle = "Proceedings of the 6th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature",
     month = oct,
     year = "2022",
